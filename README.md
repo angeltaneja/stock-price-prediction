@@ -135,6 +135,4 @@ LinkedIn: https://www.linkedin.com/in/angel-taneja-140b45263/
 
 Email: angeltaneja100@gmail.com
 
-yfinance (data collection)
 
-Jupyter Notebook
